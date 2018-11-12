@@ -36,3 +36,6 @@ body{
     background-color:#6E3F19
 }
 tr:hover {background-color:#dbb08db0!important}
+input[type=tel]{
+    border-radius:10px;
+}
