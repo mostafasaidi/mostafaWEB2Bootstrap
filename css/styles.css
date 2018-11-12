@@ -39,3 +39,7 @@ tr:hover {background-color:#dbb08db0!important}
 input[type=tel]{
     border-radius:10px;
 }
+input[type=email]{
+    border-radius:10px;
+
+
